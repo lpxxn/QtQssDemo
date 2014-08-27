@@ -1,0 +1,11 @@
+QPushButton#btn_Color{
+    background:blue;
+}
+
+.ButtonExt{
+    background:red;
+}
+
+QPushButton {
+    background:black;
+}
